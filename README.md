@@ -14,7 +14,8 @@
 
 ## 👁️‍🗨️ Glimpse
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/65977764/224549622-6aef0b93-0240-4bd3-82a1-c9fdc42a283c.png">
-![image](https://user-images.githubusercontent.com/101393695/235324513-432c2ddf-1cc1-4813-a876-6ef68eff1009.png)
+
+
 
 
 ## ✈️ Getting Started
