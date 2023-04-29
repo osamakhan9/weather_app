@@ -1,0 +1,35 @@
+.container {
+    color: white;
+    width: 350px;
+    align-self: flex-end;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    backdrop-filter: blur(4px);
+    background: rgba(73, 71, 71, 0.5);
+}
+
+.container > h2 {
+    padding: 15px 0px;
+}
+
+.container > div {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media all and (min-width: 0px) and (max-width: 443px) {
+    .container {
+        align-self: center;
+        width: calc(100% - 80px);
+        padding: 35px;
+    }
+}
+
+@media all and (min-width: 443px) and (max-width: 656px) {
+    .container {
+        align-self: center;
+    }
+}

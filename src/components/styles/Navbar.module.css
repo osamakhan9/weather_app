@@ -1,0 +1,14 @@
+.container  li{
+    list-style: none;
+    cursor: pointer;
+    color: white;
+}
+
+.container ul{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    /* border: 1px solid black; */
+    padding: 35px 0px;
+    font-size: 18px;
+}

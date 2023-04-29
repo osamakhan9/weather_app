@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    padding: 20px 10px;
+    gap: 10px;
+    filter: contrast(200%);
+}
+
+.container > h1 {
+    font-size: 90px;
+}
+
+.container > div > h2 {
+    font-size: 40px;
+}
+
+.container > div {
+    display: flex;
+    flex-direction: column;
+}
+
+.container sup {
+    font-weight: lighter;
+}
+
+@media all and (min-width: 0px) and (max-width: 708px) {
+    .container {
+        padding: 0px;
+        flex-wrap: wrap;
+        padding: 10px 10px;
+    }
+
+    .container > h1 {
+        font-size: calc(10px + (100vw) / 10);
+    }
+
+    .container > div > h2 {
+        font-size: calc((100vw) / 20);
+    }
+}
