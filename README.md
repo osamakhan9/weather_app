@@ -14,6 +14,9 @@
 
 ## 👁️‍🗨️ Glimpse
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/65977764/224549622-6aef0b93-0240-4bd3-82a1-c9fdc42a283c.png">
+<img width='960' alt='image' src="https://user-images.githubusercontent.com/101393695/235324884-1132f0f1-72d0-46e5-99bc-1d139cfe1ae6.png">
+
+https://user-images.githubusercontent.com/101393695/235324942-5844ac96-7b8d-4fca-bcb2-cce1027e83ec.mp4
 
 
 
@@ -23,7 +26,8 @@ To use this repo locally:-
 ```
 git clone 
 npm i
-npm start
+npm start!
+
 ```
 
 
