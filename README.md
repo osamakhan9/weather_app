@@ -15,16 +15,13 @@
 ## 👁️‍🗨️ Glimpse
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/65977764/224549622-6aef0b93-0240-4bd3-82a1-c9fdc42a283c.png">
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/65977764/224549800-737fe231-04d7-4ba8-840a-8801697c78fb.png">
-<img width="958" alt="image" src="https://user-images.githubusercontent.com/65977764/224549775-4e9a36de-b039-42da-a848-6b35492c78c3.png">
 
 ## ✈️ Getting Started
 To use this repo locally:-
 ```
-git clone https://github.com/Aman9723/weather-app.git
-cd .\weather-app\
-npm ci
+git clone 
+npm i
 npm start
 ```
 
-## 💁‍♂️ Support
-For any issues or questions, please contact me at amansingh9723chauhan@gmail.com.
+
